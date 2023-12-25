@@ -20,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franthe3rd&show_icons=true&locale=en&layout=compact" alt="franthe3rd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franthe3rd&show_icons=true&locale=en" alt="franthe3rd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franthe3rd&" alt="franthe3rd" /></p>
