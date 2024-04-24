@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/FranThe3rd](https://github.com/FranThe3rd)
 
-- 📫 How to reach me **francisco21xd234@gmail.com**
+- 📫 How to reach me **francisco.figueroa.dev@gmail.com**
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/franthe3rd2004/</h3>
 <p align="left">
