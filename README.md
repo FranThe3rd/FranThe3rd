@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Francisco Figueroa</h1>
 
 # 💫 About Me:
-I am a third-year computer engineering student at Moravian University, mostly a front-end developer.
+I am a third-year computer science student at Moravian University, mostly a front-end developer.
 ## 🚀 What I'm Up To
 
 - 💻 Learning how to make Spring Boot applications with PostgreSQL.
