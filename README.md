@@ -4,7 +4,7 @@
 I am a third-year computer science student at Moravian University, mostly a front-end developer.
 ## 🚀 What I'm Up To
 
-- 💻 Learning how to make Spring Boot applications with PostgreSQL.
+- 💻 Working on my coding AI interviewer Saas [AlgoVortex](https://algovortex.vercel.app/).
 
 Check out my [coding portfolio!](https://francisco-figueroa.vercel.app/)
 
