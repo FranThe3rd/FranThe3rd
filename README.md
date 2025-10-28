@@ -4,7 +4,7 @@
 I am a third-year computer science student at Moravian University, mostly a front-end developer.
 ## 🚀 What I'm Up To
 
-- 💻 Working on my coding AI interviewer Saas [AlgoVortex](https://algovortex.vercel.app/).
+- 💻 Working on my coding AI interviewer Saas [AlgoVortex](https://www.algovortex.dev/).
 - Learning C++
 
 Check out my [coding portfolio!](https://francisco-figueroa.vercel.app/)
