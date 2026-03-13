@@ -4,9 +4,10 @@
 I am a senior cs student at Moravian University, mostly a front-end developer.
 ## 🚀 What I'm Up To
 
-- 💻 Working on my coding AI interviewer Saas [AlgoVortex](https://www.algovortex.dev/).
+- 💻 Working on my business [FFWebSolutions](https://www.ffwebsolutions.com/)
 - Learning C++
-- Learning SpringBoot
+- Learning .NET Framework
+- Learning Tailwind CSS
 
 Check out my coding <a href="https://francisco-figueroa.dev/" target="_blank" rel="noopener noreferrer">portfolio!</a>
 
