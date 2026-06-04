@@ -6,8 +6,8 @@ I am a senior cs student at Moravian University, mostly a front-end developer.
 
 - 💻 Working on my business [FFWebSolutions](https://www.ffwebsolutions.com/)
 - Learning C++
-- Learning .NET Framework
-- Learning Tailwind CSS
+- Learning Springboot
+- Embedded Systems
 
 Check out my coding <a href="https://francisco-figueroa.dev/" target="_blank" rel="noopener noreferrer">portfolio!</a>
 
