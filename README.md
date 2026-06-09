@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Francisco Figueroa</h1>
 
 # 💫 About Me:
-I am a senior cs student at Moravian University, mostly a front-end developer.
+Recent Graduate From Moravian University
 ## 🚀 What I'm Up To
 
 - 💻 Working on my business [FFWebSolutions](https://www.ffwebsolutions.com/)
