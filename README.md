@@ -4,19 +4,13 @@
 Recent Graduate From Moravian University
 ## 🚀 What I'm Up To
 
-- 💻 Working on my business [FFWebSolutions](https://www.ffwebsolutions.com/)
 - Learning C++
 - Learning Springboot
 - Embedded Systems
 
 Check out my coding <a href="https://francisco-figueroa.dev/" target="_blank" rel="noopener noreferrer">portfolio!</a>
 
-## 🎓 About Me
 
-I'm also a photographer:
-
-- [Car Photography Instagram](https://www.instagram.com/fran_photography__/?hl=en)
-- [Bird Photography Instagram](https://www.instagram.com/hatchingbirds/?hl=en)
 
 
 ## 🌐 Connect with me:
