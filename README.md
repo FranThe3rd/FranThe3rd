@@ -4,9 +4,7 @@
 Recent Graduate From Moravian University
 ## 🚀 What I'm Up To
 
-- Learning C++
-- Learning Springboot
-- Embedded Systems
+- Working On Full Stack Application Called FightWatch
 
 Check out my coding <a href="https://francisco-figueroa.dev/" target="_blank" rel="noopener noreferrer">portfolio!</a>
 
